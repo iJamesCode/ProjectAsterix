@@ -1,0 +1,1 @@
+global.zKeyIsDown = false;
