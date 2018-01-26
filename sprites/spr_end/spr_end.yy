@@ -1,5 +1,5 @@
 {
-    "id": "bd839e8a-be2c-4c83-8f96-c627308c4538",
+    "id": "b8f46547-7b00-4bce-9e39-888760b0e796",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_end",
@@ -7,7 +7,7 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 63,
-    "bbox_left": 1,
+    "bbox_left": 0,
     "bbox_right": 63,
     "bbox_top": 0,
     "bboxmode": 0,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "c75b6b8f-803c-4391-b4b5-e47381ceb8de",
+            "id": "db92d202-bc02-4704-8d7b-9ac6582692ea",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "bd839e8a-be2c-4c83-8f96-c627308c4538",
+            "SpriteId": "b8f46547-7b00-4bce-9e39-888760b0e796",
             "compositeImage": {
-                "id": "6a35384e-0745-43b8-8a95-7eab9da1c3f6",
+                "id": "632b4e9e-1be1-4fbe-8002-b64166738610",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "c75b6b8f-803c-4391-b4b5-e47381ceb8de",
+                "FrameId": "db92d202-bc02-4704-8d7b-9ac6582692ea",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "5a90fa3a-5785-4618-bf05-72d005e31265",
+                    "id": "123c4c4c-f53c-4683-9928-366cd3f6ee70",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "c75b6b8f-803c-4391-b4b5-e47381ceb8de",
-                    "LayerId": "9cb81864-d7b7-43c6-a5d6-451d8a1127b9"
+                    "FrameId": "db92d202-bc02-4704-8d7b-9ac6582692ea",
+                    "LayerId": "88c826f1-e98f-40ad-aeec-c8264d2ad5cd"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 64,
     "layers": [
         {
-            "id": "9cb81864-d7b7-43c6-a5d6-451d8a1127b9",
+            "id": "88c826f1-e98f-40ad-aeec-c8264d2ad5cd",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "bd839e8a-be2c-4c83-8f96-c627308c4538",
+            "SpriteId": "b8f46547-7b00-4bce-9e39-888760b0e796",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
