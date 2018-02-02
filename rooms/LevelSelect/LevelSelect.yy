@@ -7,13 +7,13 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "5b46ee14-d84b-4163-8e72-94eb0fb72b9d"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "Levels",
             "id": "79c90154-06cd-4e5a-9e64-8a997a778eb7",
             "depth": 0,
             "grid_x": 32,
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_1A932C6E","id": "5b46ee14-d84b-4163-8e72-94eb0fb72b9d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1A932C6E","objId": "23c96f6f-6371-4bd4-bf39-1e447519323f","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 544,"y": 320}
             ],
             "layers": [
 
@@ -43,7 +43,7 @@
             "id": "f30d1c76-1a4b-4d08-9f6c-f9e8c3abbc12",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4283256141 },
+            "colour": { "Value": 4281611316 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

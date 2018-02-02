@@ -1,3 +1,3 @@
-if position_meeting(x, y, obj_player) {
+if position_meeting(x, y+1, obj_player) {
 	global.finishedLevel = true;
 }

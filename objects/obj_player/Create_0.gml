@@ -1,9 +1,10 @@
 velocity_ = [0,0];
 gravity_ = 1.5;
-jump_speed_ = 28;
+jump_speed_ = 28.5;
 max_velocity_ = [8, 32];
-acceleration_ = 2.1;
+acceleration_ = 2.5;
 global.death = false;
+global.game_paused = false;
 
 global.start_x = x;
 global.start_y = y;
