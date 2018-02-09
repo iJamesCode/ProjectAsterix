@@ -1,4 +1,4 @@
-
+if global.game_paused == false { 
 var x_input = (keyboard_check(vk_right) - keyboard_check(vk_left)) * acceleration_;
 
 // Vector variables
@@ -41,4 +41,5 @@ if global.death == true {
 	global.toggleSplit = false;
 	image_index = 0;
 	global.death = false;
+}
 }
